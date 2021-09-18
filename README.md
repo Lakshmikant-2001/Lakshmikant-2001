@@ -32,5 +32,5 @@
 <br>
 <img style="width:50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshmikant-2001&theme=algolia&layout=compact&hide_border=true%22" alt="">
 <br>
-<img style="width:50%" src="https://github-readme-stats.vercel.app/api?username=Lakshmikant-2001&theme=tokyonight&show_icons=true" alt="">
+<img style="width:50%" src="https://github-readme-stats.vercel.app/api?username=Lakshmikant-2001&theme=tokyonight&show_icons=true&icon_color=E34F26&hide=commits" alt="">
 <br>
