@@ -34,3 +34,5 @@
 <br>
 <img style="width:50%" src="https://github-readme-stats.vercel.app/api?username=Lakshmikant-2001&theme=tokyonight&show_icons=true&icon_color=E34F26&hide=commits" alt="">
 <br>
+<img style="width:50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmikant-2001&layout=compact&bg_color=060f2c&text_color=fff" alt="">
+<br>
